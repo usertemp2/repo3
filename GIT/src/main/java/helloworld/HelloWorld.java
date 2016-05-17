@@ -15,5 +15,5 @@ public class HelloWorld {
 		System.out.println("Hello World, Maven");
 
 	}
-		System.out.println("Hello World, New");
+		System.out.println("Hello World. New");
 }
